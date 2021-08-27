@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s9.gifyu.com/images/6128714e6dd17775040600.md.gif" alt="Welcome!" width="100%" height="400px"/>
+<img src="https://s9.gifyu.com/images/6128714e6dd17775040600.gif" alt="Welcome!" width="100%" height="400px"/>
 </div>
 <div align="center">
 <h2>ABOUT ME</h2>
