@@ -1,3 +1,1 @@
-<div align="center" width="50">
-  <img src="https://tenor.com/view/gif-22851823" width="100%" height="100px"/>
-</div>
+<div class="tenor-gif-embed" data-postid="22851823" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/gif-22851823">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
