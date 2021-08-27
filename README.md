@@ -4,8 +4,11 @@
 <div align="center">
 <h2>ABOUT ME</h2>
 </div>
-
-
+<br>
+<div align="left">
+<p>Fate has led me to this path, every step is a success, every mistake is a learning, do not limit yourself, be aware of what surrounds me and take advantage of what life gives me, think twice, program once.</p>
+</div>
+<br>
 ### PROGRAMMING LANGUAGES - USEFUL TOOLS - OPERATIVE SYSTEMS 🛠 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
