@@ -1,5 +1,5 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://s9.gifyu.com/images/61286962508bc381496070.gif" alt="Welcome!" width="300"/>
+<img src="https://s9.gifyu.com/images/61286962508bc381496070.gif" alt="Welcome!" width="100%" height="100px"/>
 
 </div>
